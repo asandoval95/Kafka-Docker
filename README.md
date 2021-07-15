@@ -13,7 +13,13 @@ Dockerfile for [Apache Kafka](http://kafka.apache.org/)
 Start a cluster:
 
 - ```docker-compose up -d ```
+- Then access the web UI at [http://localhost:8080](http://localhost:8080)
+
 
 Destroy a cluster:
 
 - ```docker-compose stop```
+
+## Links
+
+- [UI for Apache Kafka](https://github.com/provectus/kafka-ui)
