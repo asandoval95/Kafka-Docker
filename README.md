@@ -22,4 +22,4 @@ Destroy a cluster:
 
 ## Links
 
-- [UI for Apache Kafka](https://github.com/provectus/kafka-ui)
+- [Kafdrop](https://github.com/obsidiandynamics/kafdrop)
